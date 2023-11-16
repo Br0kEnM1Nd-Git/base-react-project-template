@@ -4,6 +4,7 @@ Great Lib's Installed:
 2. Styled Components
 3. Nanoid
 4. Axios
+5. Notiflix
 
 To load on Github Pages:
 
