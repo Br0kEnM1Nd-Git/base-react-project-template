@@ -5,12 +5,6 @@ const AppWrapper = styled.div`
   display: 'flex';
   justify-content: 'center';
   align-items: 'center';
-  font-size: 40px;
-  color: '#010101';
 `;
 
-const Div = styled.div``;
-
-const Ul = styled.ul``;
-
-export { AppWrapper, Div, Ul };
+export { AppWrapper };
