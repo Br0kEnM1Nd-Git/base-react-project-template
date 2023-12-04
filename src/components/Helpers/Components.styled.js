@@ -7,4 +7,6 @@ const AppWrapper = styled.div`
   align-items: 'center';
 `;
 
+// TODO: Зробити базові стилізовані компоненти для найчастіше вживаних елементі, наприклад: input, button, etc...
+
 export { AppWrapper };
