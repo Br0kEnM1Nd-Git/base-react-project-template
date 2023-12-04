@@ -3,11 +3,17 @@
 * {
   margin: 0;
   padding: 0;
+  color: #333333;
 }
 
 ul,
 ol {
   list-style-type: none;
+}
+
+a {
+  color: #333333;
+  text-decoration: none;
 }
 
 body {
